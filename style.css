@@ -30,7 +30,7 @@ img{width:250px;
     display: flex;
     justify-content: space-around;
 }
-@media only screen and (max-width: 2400px) {
+@media only screen and (max-width: 1000px) {
    #header {
 	  font-size: 50px;
       max-width: 90%;
