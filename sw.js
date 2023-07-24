@@ -3,8 +3,8 @@ const dynamicCacheName = 'test-cache-2-dynamic'
 
 const assetsUrl = [
   'index.html',
-  'app.js',
-  'style.css',
+  'js/app.js',
+  '/css/style.css',
   'offline.html'
 ]
 
