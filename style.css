@@ -31,17 +31,17 @@ img{width:250px;
     justify-content: space-around;
 }
 @media only screen and (max-width: 2400px) {
-   #header {
+   .header {
 	  font-size: 50px;
       max-width: 80%;
    }
-   #content {
+   .content {
       max-width: 80%;
    }
-   #footer {
+   .footer {
       max-width: 80%;
    }
-   #text {
+   .text {
     position:relative;
 	left:50px;
    }
