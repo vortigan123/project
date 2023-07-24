@@ -34,12 +34,18 @@ img{width:250px;
    .header {
 	  font-size: 50px;
       max-width: 80%;
+	  color:#FFFFFF;
+	  background: #000000;
    }
    .content {
       max-width: 80%;
+	  background:#cc9900;
+		color: #FFFFFF;
    }
    .footer {
       max-width: 80%;
+	  background: red;
+		color: #FFFFFF;
    }
    .text {
     position:relative;
