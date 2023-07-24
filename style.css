@@ -33,7 +33,7 @@ img{width:250px;
 @media only screen and (max-width: 2400px) {
    .header {
 	  font-size: 50px;
-      max-width: 80%;
+      max-width: 90%;
 	  color:#FFFFFF;
 	  background: #000000;
    }
@@ -43,13 +43,13 @@ img{width:250px;
 		color: #FFFFFF;
    }
    .footer {
-      max-width: 80%;
+      max-width: 90%;
 	  background: red;
 		color: #FFFFFF;
    }
    .text {
     position:relative;
-	left:50px;
+	left: 1px; 
 	font-size: 50px;
    }
 }
