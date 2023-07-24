@@ -29,7 +29,7 @@ img{width:250px;
 .contact-box{display: flex;
     justify-content: space-around;
 }
-@media screen and (max-width: 1000px) {
+@media only screen and (max-width: 1000px) {
    .header {
 	  font-size: 50px;
       max-width: 90%;
