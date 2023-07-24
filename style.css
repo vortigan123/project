@@ -50,5 +50,6 @@ img{width:250px;
    .text {
     position:relative;
 	left:50px;
+	font-size: 50px;
    }
 }
