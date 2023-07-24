@@ -1,28 +1,33 @@
-#header{width:1920px;
-		height:140px;
-		font-size: 20pt;
-		text-align:center;
-		vertical-align:middle;
-		color: #FFFFFF;
-		background: #000000;
+#header{
+	width:1920px;
+	height:140px;
+	font-size: 20pt;
+	text-align:center;
+	vertical-align:middle;
+	color: #FFFFFF;
+	background: #000000;
 }
-img{width:250px;
+img{
+	width:250px;
 	float: left;
 }
-#content{width:1920px;
-		height:390px;
-		font-size:14pt;
-		background:#cc9900;
-		color: #FFFFFF;
+#content{
+	width:1920px;
+	height:390px;
+	font-size:14pt;
+	background:#cc9900;
+	color: #FFFFFF;
 }
-#footer{width:1920px;
-		height:550px;
-		font-size:14pt;
-		background: red;
-		color: #FFFFFF;
-		text-decoration:none;
+#footer{
+	width:1920px;
+	height:550px;
+	font-size:14pt;
+	background: red;
+	color: #FFFFFF;
+	text-decoration:none;
 }
-#text{position:absolute;
+#text{
+	position:absolute;
 	left:300px;
 	font-family:"FANTASY";
 }
@@ -40,12 +45,12 @@ img{width:250px;
    #content {
       max-width: 80%;
 	  background:#cc9900;
-		color: #FFFFFF;
+	  color: #FFFFFF;
    }
    #footer {
       max-width: 90%;
 	  background: red;
-		color: #FFFFFF;
+	  color: #FFFFFF;
    }
    #text {
     position:relative;
