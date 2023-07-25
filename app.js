@@ -2,15 +2,14 @@ window.addEventListener('load', async () => {
   console.info('load - ', navigator)
   if (navigator.serviceWorker) {
     try{
-      const result = await navigator.serviceWorker.register('/sw.js')
+      const result = await navigator.serviceWorker.register('sw.js')
       console.log('Service worker registration success', result)
     } catch (err) {
       console.error('Service worker registration failed', error.message)
     }
 
   }
-  await loadPosts()
-})
+  await loadPosts()})
   
   
 async function loadPosts() {

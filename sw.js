@@ -1,10 +1,7 @@
-const staticCacheName = 'test-cache-2'
-const dynamicCacheName = 'test-cache-2-dynamic'
-
 const assetsUrl = [
   'index.html',
-  'js/app.js',
-  '/css/style.css',
+  'app.js',
+  'default.css',
   'offline.html'
 ]
 
